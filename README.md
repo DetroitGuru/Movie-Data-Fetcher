@@ -145,7 +145,7 @@ Running the script will generate an HTML file named Inception.html in the specif
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/DetroitGuru/Movie-Data-Fetcher/LICENSED.txt) file for details.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request on GitHub if you have suggestions or improvements.
