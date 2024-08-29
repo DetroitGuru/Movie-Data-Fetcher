@@ -5,7 +5,7 @@ import json
 directory_path = 'cd path/to/your/directory'
 
 def mokmobi_template(title, poster_url, rating, duration, genre, director, cast, description, imdbid):
-    # Change with your HTML Template
+    # Replace with your HTML Template
     html_template = f"""
 <div class="rcimg-cover">
   <button id="toMiddle">
