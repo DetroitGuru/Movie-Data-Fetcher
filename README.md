@@ -150,4 +150,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request on GitHub if you have suggestions or improvements.
-For questions or comments, please contact me [Telegram](t.me/detroitguru)
+
+
+## Acknowledgements
+**The Movie Database** (TMDb) for providing the movie data through their API.
+**Vidsrc.cc** for providing the movie streaming links.
