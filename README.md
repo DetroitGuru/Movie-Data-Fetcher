@@ -153,5 +153,5 @@ Contributions are welcome! Please open an issue or submit a pull request on GitH
 
 
 ## Acknowledgements
-**The Movie Database** (TMDb) for providing the movie data through their API.
-**Vidsrc.cc** for providing the movie streaming links.
+***The Movie Database*** (TMDb) for providing the movie data through their API.
+***Vidsrc.cc*** for providing the movie streaming links.
