@@ -16,10 +16,10 @@ This Python script fetches movie data from The Movie Database (TMDb) API and sav
 - `requests` library
 
 You can install the required library using pip:
-'
-```sh
-pip install requests
-'
+
+````sh
+pip install requests`
+
 ## Configuration
 
 
